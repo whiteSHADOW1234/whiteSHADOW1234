@@ -3,7 +3,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=whiteSHADOW1234&count_private=true&show_icons=true&theme=prussian&border_radius=20"/> 
 
-<img align="right" width="47%" height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteSHADOW1234&layout=compact&langs_count=6&border_radius=20"/>
+<img align="right" width="47%" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteSHADOW1234&layout=compact&langs_count=6&border_radius=20"/>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=whiteshadow1234&theme=onedark" alt="whiteshadow1234" /></p>
 
