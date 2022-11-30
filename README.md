@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Enkai</h1>
-
+<p align="center">
+  <img width="43%" src="https://user-images.githubusercontent.com/91242001/204717711-b03736f8-19c4-4b27-a8e9-e0e408028ee6.gif"/>
+</p>
 
 <h3 align="left">Status:</h3>
 <p align="center">
