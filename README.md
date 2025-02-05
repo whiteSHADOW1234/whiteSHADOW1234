@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&size=25&multiline=true&color=2BAEF7&pause=1000&background=2CFF2A00&vCenter=true&width=1200&height=200&lines=Hi%2C+I'm+a+programer+who+is+.+.+.;;+Passionate+about+solving+real-world+problems+with+code.+;;+Skilled+in+Full-Stack+Web+Development%2C+Security%2C+Machine+Learning%2C+and+more." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=Hi%2C+I%27m+a+programmer+who+is+...;%0A;Passionate+about+solving+real-world+problems+with+code.;%0A;Skilled+in+Full-Stack+Web+Development%2C+Security%2C+Machine+Learning%2C+and+more." alt="Typing SVG" /></a>
 
 <h3 align="left">Status:</h3>
 <p align="center">
