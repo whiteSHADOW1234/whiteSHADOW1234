@@ -1,4 +1,4 @@
-<a href="https://typingsvg.vercel.app/"><img src="https://typingsvg.vercel.app/api/svg?text=Hi%2C+I%27m+a+programmer+who+is...%0APassionate+about+solving+real-world+problems+with+code.%0ASkilled+in+Full-Stack+Web+Development%2C+Security%2C+Machine+Learning%2C+and+more.&font=Monaco&color=%23017bfe&width=1700&height=300&typingSpeed=0.1&pause=5000&letterSpacing=0.1&repeat=true&backgroundColor=%23ffffff&fontSize=30&center=true&vCenter=true&border=false&cursorStyle=straight&deleteAfter=true&deleteSpeed=0.1" alt="Typing SVG" /></a>
+<a href="https://typingsvg.vercel.app/"><img src="https://typingsvg.vercel.app/api/svg?text=Hi%2C+I%27m+a+programmer+who+is...%0A%0APassionate+about+solving+real-world+problems+with+code.%0A%0ASkilled+in+Full-Stack+Web+Development%2C+Security%2C+Machine+Learning%2C+and+more.&font=Monaco&color=%23017bfe&width=1700&height=300&typingSpeed=0.1&pause=5000&letterSpacing=0.1&repeat=true&backgroundColor=%23ffffff&fontSize=30&center=true&vCenter=true&border=false&cursorStyle=straight&deleteAfter=true&deleteSpeed=0.1" alt="Typing SVG" /></a>
 
 <h3 align="left">Status:</h3>
 <p align="center">
